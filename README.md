@@ -34,7 +34,7 @@ com.stackly
 ├── util
 --------------------------------
 
-✨ Features
+✨Features
 
 User Management
 Role-Based Authentication
