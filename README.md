@@ -32,3 +32,14 @@ com.stackly
 ├── dto
 ├── exception
 ├── util
+--------------------------------
+✨ Features
+User Management
+Role-Based Authentication
+Plan Management
+Subscription Management
+Billing & Payments
+Dashboard APIs
+JWT Security
+Global Exception Handling
+Swagger API Documentation
