@@ -50,11 +50,15 @@ Swagger API Documentation
 
 1. Clone Repository
 
+</> Bash
+
 git clone https://github.com/your-username/subscription-billing-system.git
 ------------------------------------------
 2. Configure MySQL
 
 Create database:
+
+</>SQL
 
 CREATE DATABASE subscription_db;
 -------------------------------------------------
