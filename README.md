@@ -188,7 +188,7 @@ PUT	/api/subscriptions/{id}/cancel	Cancel Subscription
 Method	Endpoint	Description
 POST	/api/billing/pay	Process Payment
 GET	/api/billing/history	Payment History
--------------------------------------------------------
+------------------------------------------------------
 📊 Dashboard
 Method	Endpoint	Description
 GET	/api/dashboard/summary	Dashboard Summary
