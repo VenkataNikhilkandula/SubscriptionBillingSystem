@@ -62,3 +62,36 @@ Create database:
 
 CREATE DATABASE subscription_db;
 -------------------------------------------------
+
+3. Configure application.properties
+
+</> Properities
+
+spring.datasource.url=jdbc:mysql://localhost:3306/subscription_db
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+------------------------------------------------
+4. Run Project
+
+mvn clean install
+mvn spring-boot:run
+---------------------------------------------
+📦 Main APIs
+Users
+POST /api/users
+GET /api/users
+
+Plans
+POST /api/plans
+GET /api/plans
+
+Subscriptions
+POST /api/subscriptions
+GET /api/subscriptions
+
+Billing
+POST /api/billing/pay
+GET /api/billing/history
