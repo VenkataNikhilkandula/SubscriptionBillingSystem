@@ -45,3 +45,4 @@ Dashboard APIs
 JWT Security
 Global Exception Handling
 Swagger API Documentation
+-------------------------------------
