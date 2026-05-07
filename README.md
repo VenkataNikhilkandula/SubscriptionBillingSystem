@@ -46,3 +46,9 @@ JWT Security
 Global Exception Handling
 Swagger API Documentation
 -------------------------------------
+⚙️ Setup Instructions
+
+1. Clone Repository
+
+git clone https://github.com/your-username/subscription-billing-system.git
+------------------------------------------
